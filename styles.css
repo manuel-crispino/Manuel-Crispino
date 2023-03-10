@@ -68,10 +68,12 @@ a:hover {
 
 .top-cloud {
     position: relative;
-    left: 200px;
+    left: 300px;
 }
 .bottom-cloud {
     position: absolute;
+     left: 300px;
+    top: 400px;
 
 }
 .designer {
